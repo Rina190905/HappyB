@@ -85,7 +85,7 @@ body{
 
 p{
   color: lime; 
-  font-family: "Courier Prime Regular";
+  font-family: "Courier Prime", monospace;
   font-size: 12px;
   margin: 10px 0 0 10px;
   white-space: nowrap;
