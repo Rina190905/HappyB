@@ -1,3 +1,4 @@
+console.log('Hello');
 $(document).ready(function() {
   $(".control").hide();
   $(".c").hover(function() {
